@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Davide Catani
 
 - 🌱 I’m currently learning Next.js
-- 🔭 I'm currently looking for a new side project
+- 🔭 I'm building my portfolio with Next.js
 <!--
 **davidecatani/davidecatani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
